@@ -60,17 +60,5 @@ CRUD-based system connected to SQL Server demonstrating relational database desi
 
 ## 📫 Connect With Me
 
-* LinkedIn: [your-linkedin-url]
+* LinkedIn:
 * Email: [jhoop4@uic.edu](mailto:your.email@example.com)
-
----
-
-If you'd like, I can also:
-
-* Make it more minimal
-* Make it more impressive/competitive
-* Make it tailored toward internships
-* Make it tailored toward backend roles specifically
-* Or make it more personality-driven and less corporate
-
-Just tell me the vibe you're going for.
