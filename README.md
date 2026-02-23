@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at the University of Illinois Chicago focused on becoming a well-rounded software engineer.
+I'm a Computer Science student at the University of Illinois Chicago.
 Right now, I’m building projects in **C# and .NET**, working on object-oriented programming, data structures, and backend development.
 
 I enjoy breaking down complex problems and turning them into clean, maintainable code. I'm especially interested in:
